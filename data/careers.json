@@ -1,0 +1,103 @@
+{
+  "Data Scientist": {
+    "description": "Analyze data using statistics, programming, and machine learning to extract insights.",
+    "skills": ["Python", "Machine Learning", "Statistics", "SQL"],
+    "resources": ["https://www.kaggle.com/learn", "https://www.coursera.org/specializations/data-science-python"]
+  },
+  "Web Developer": {
+    "description": "Build websites and web applications using frontend and backend technologies.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "resources": ["https://developer.mozilla.org/", "https://roadmap.sh/frontend"]
+  },
+  "Cybersecurity Analyst": {
+    "description": "Defend systems and data from cyber threats and vulnerabilities.",
+    "skills": ["Cybersecurity", "Networking", "Linux", "Kali Linux"],
+    "resources": ["https://www.tryhackme.com/", "https://www.cybrary.it/"]
+  },
+  "Cloud Engineer": {
+    "description": "Deploy and manage applications and infrastructure in the cloud.",
+    "skills": ["Cloud Computing", "AWS", "Azure", "DevOps"],
+    "resources": ["https://learn.microsoft.com/en-us/training/", "https://www.aws.training/"]
+  },
+  "UX Designer": {
+    "description": "Design intuitive and attractive user interfaces and experiences.",
+    "skills": ["Figma", "Prototyping", "Design Thinking", "User Research"],
+    "resources": ["https://www.coursera.org/learn/google-ux-design", "https://www.interaction-design.org/courses"]
+  },
+  "Mobile App Developer": {
+    "description": "Create mobile apps using frameworks like Flutter or React Native.",
+    "skills": ["Flutter", "Dart", "APIs", "Firebase"],
+    "resources": ["https://flutter.dev/", "https://developer.android.com/"]
+  },
+  "Game Developer": {
+    "description": "Design and program games for mobile, web, and console platforms.",
+    "skills": ["Unity", "C#", "Game Design", "Animation"],
+    "resources": ["https://learn.unity.com/", "https://www.gamedev.tv/"]
+  },
+  "Prompt Engineer": {
+    "description": "Design and optimize prompts for AI and language models.",
+    "skills": ["Prompt Engineering", "LLMs", "NLP", "LangChain"],
+    "resources": ["https://www.promptingguide.ai/", "https://platform.openai.com/docs"]
+  },
+  "Youtuber": {
+    "description": "Create engaging video content and grow an audience on YouTube.",
+    "skills": ["Youtuber", "Video Editing", "Storytelling", "SEO"],
+    "resources": ["https://creatoracademy.youtube.com/", "https://www.skillshare.com/"]
+  },
+  "Content Creator": {
+    "description": "Develop content across platforms like YouTube, Instagram, and blogs.",
+    "skills": ["Content Creation", "Video Editing", "Public Speaking", "Social Media"],
+    "resources": ["https://www.hubspot.com/resources", "https://www.canva.com/learn/content-creation/"]
+  },
+  "Public Speaker": {
+    "description": "Deliver powerful speeches and presentations to inspire or inform.",
+    "skills": ["Public Speaking", "Confidence", "Communication", "Storytelling"],
+    "resources": ["https://www.ted.com/participate", "https://www.toastmasters.org/"]
+  },
+  "Writer": {
+    "description": "Create written content such as articles, blogs, stories, or scripts.",
+    "skills": ["Writing", "Creativity", "Editing", "Grammar"],
+    "resources": ["https://www.masterclass.com/classes/neil-gaiman-teaches-the-art-of-storytelling", "https://www.grammarly.com/blog/"]
+  },
+  "Photographer": {
+    "description": "Capture photos professionally for events, products, or art.",
+    "skills": ["Photography", "Editing", "Lighting", "Creativity"],
+    "resources": ["https://www.udemy.com/course/photography-masterclass-complete-guide/", "https://petapixel.com/"]
+  },
+  "Actor": {
+    "description": "Perform roles in theatre, TV, film, or online media.",
+    "skills": ["Acting", "Expression", "Voice Modulation", "Improvisation"],
+    "resources": ["https://www.masterclass.com/classes/helen-mirren-teaches-acting", "https://www.coursera.org/learn/acting"]
+  },
+  "Entrepreneur": {
+    "description": "Start and grow a business by solving real-world problems.",
+    "skills": ["Entrepreneurship", "Business Strategy", "Marketing", "Leadership"],
+    "resources": ["https://www.coursera.org/specializations/wharton-entrepreneurship", "https://www.ycombinator.com/start"]
+  },
+  "Digital Marketer": {
+    "description": "Promote products and services through digital platforms.",
+    "skills": ["Marketing", "SEO", "Email Marketing", "Social Media"],
+    "resources": ["https://learndigital.withgoogle.com/", "https://www.hubspot.com/resources"]
+  },
+  "Teacher": {
+    "description": "Educate and inspire students in academic or practical subjects.",
+    "skills": ["Teaching", "Communication", "Patience", "Content Delivery"],
+    "resources": ["https://www.coursera.org/learn/teaching", "https://www.udemy.com/course/online-teaching/"]
+  },
+  "Psychologist": {
+    "description": "Study human behavior and help people manage mental health.",
+    "skills": ["Psychology", "Counseling", "Empathy", "Observation"],
+    "resources": ["https://nptel.ac.in/", "https://www.apa.org/"]
+  },
+  "Finance Analyst": {
+    "description": "Analyze financial data and trends to support business decisions.",
+    "skills": ["Finance", "Excel", "Accounting", "Financial Modeling"],
+    "resources": ["https://www.coursera.org/specializations/financial-analysis", "https://www.investopedia.com/"]
+  },
+  "Event Planner": {
+    "description": "Organize and coordinate professional or social events.",
+    "skills": ["Event Planning", "Logistics", "Creativity", "Communication"],
+    "resources": ["https://www.eventbrite.com/blog/", "https://www.udemy.com/course/event-planning/"]
+  }
+}
+

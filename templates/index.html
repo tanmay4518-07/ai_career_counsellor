@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Career Counselor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">AI Career Counselor</div>
+    <div class="chat-box" id="chat-box"></div>
+
+    <div class="dropdown-container">
+      <select id="skill-dropdown">
+        <option value="">-- Select a skill --</option>
+
+        <!-- Tech Skills -->
+        <optgroup label="Tech Skills">
+          <option value="Python">Python</option>
+          <option value="Machine Learning">Machine Learning</option>
+          <option value="Web Development">Web Development</option>
+          <option value="Cybersecurity">Cybersecurity</option>
+          <option value="Cloud Computing">Cloud Computing</option>
+          <option value="Figma">Figma</option>
+          <option value="Flutter">Flutter</option>
+          <option value="Java">Java</option>
+          <option value="C++">C++</option>
+          <option value="React">React</option>
+          <option value="Deep Learning">Deep Learning</option>
+          <option value="DevOps">DevOps</option>
+          <option value="Prompt Engineering">Prompt Engineering</option>
+        </optgroup>
+
+        <!-- Creative & Media -->
+        <optgroup label="Creative & Media">
+          <option value="Youtuber">Youtuber</option>
+          <option value="Video Editing">Video Editing</option>
+          <option value="Graphic Design">Graphic Design</option>
+          <option value="Photography">Photography</option>
+          <option value="Content Creation">Content Creation</option>
+          <option value="Public Speaking">Public Speaking</option>
+          <option value="Writing">Writing</option>
+          <option value="Podcasting">Podcasting</option>
+          <option value="Acting">Acting</option>
+          <option value="Music Production">Music Production</option>
+        </optgroup>
+
+        <!-- Business & Social -->
+        <optgroup label="Business & Social">
+          <option value="Entrepreneurship">Entrepreneurship</option>
+          <option value="Marketing">Marketing</option>
+          <option value="Sales">Sales</option>
+          <option value="Psychology">Psychology</option>
+          <option value="Counseling">Counseling</option>
+          <option value="Teaching">Teaching</option>
+          <option value="Finance">Finance</option>
+          <option value="Management">Management</option>
+          <option value="Leadership">Leadership</option>
+          <option value="Event Planning">Event Planning</option>
+        </optgroup>
+      </select>
+      <button onclick="sendSelectedSkill()">Submit</button>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
